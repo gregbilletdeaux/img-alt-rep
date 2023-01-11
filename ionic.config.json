@@ -1,0 +1,7 @@
+{
+  "name": "img-alt-rep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
